@@ -35,6 +35,7 @@ namespace Blog.API
                 app.UseDeveloperExceptionPage();
             }
 
+
             app.UseRouting();
 
             app.UseAuthorization();
